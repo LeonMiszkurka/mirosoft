@@ -18,11 +18,14 @@ public class Main {
             JButton jButton = new JButton("LoadingButton");
             jButton.addActionListener(new ActionListener() {
 
+                int NUMBER_OF_LOOPS = 10;
+
                 @Override
                 public void actionPerformed(ActionEvent e) {
-                    System.out.println("Loading...");
+                    for (int i = 1; i <= NUMBER_OF_LOOPS; i++) {
+                        System.out.println("Loading..." + i);
+                    }
                 }
-                
             });
 
             jPanel.add(jButton);
