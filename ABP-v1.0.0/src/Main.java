@@ -12,10 +12,10 @@ public class Main {
     public static void main(String[] args) {
         String input = JOptionPane.showInputDialog("ABPv1.0.0");
         if (input != null) {
-            JFrame jFrame = new JFrame("ButtonFrame");
+            JFrame jFrame = new JFrame("MirosoftBottons");
             JPanel jPanel = new JPanel();
 
-            JButton jButton = new JButton("LoadingButton");
+            JButton jButton = new JButton("Mirosoftload");
             jButton.addActionListener(new ActionListener() {
 
                 int NUMBER_OF_LOOPS = 10;
