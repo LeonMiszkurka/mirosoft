@@ -1,4 +1,6 @@
-mirosoft
+# MIROSOFT
 
-this is my pretend viris and it is just so cool.
-git downlode "gitforwindows.org" 
+Mirosoft is a API that will add commands,apps and other things to windows
+
+NO COMMAMDS,APPS AND OTHER THINGS FOR WINDOWS YET.
+STILL NEEDS MORE TIME FOR COMMANDS AMD APPS
