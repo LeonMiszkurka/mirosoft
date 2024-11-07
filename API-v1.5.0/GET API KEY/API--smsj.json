@@ -1,0 +1,13 @@
+API.get = sms.mirososft main{
+// runs main api ui
+
+ui.API = (run, (ms{API--KEY}))
+
+}
+
+{
+ {"key": "value"
+ },
+ {"key2": "value2"
+ }
+}
